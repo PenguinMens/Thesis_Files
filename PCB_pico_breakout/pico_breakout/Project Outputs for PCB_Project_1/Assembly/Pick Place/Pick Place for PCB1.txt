@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\PenguinMen\AppData\Local\Temp\Releases\Snapshot\4\Assembly\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/11/23
+Time:       18:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment                               Description                                                                                Designator Footprint             Layer    Rotation 
+1771.653      0.000         PTH-M2                                "M2 Clearance (2.2 mm) Plated Through Hole, 6mm Diameter Pad"                              PTH4       PTH-M2                TopLayer 0        
+0.000         0.000         PTH-M2                                "M2 Clearance (2.2 mm) Plated Through Hole, 6mm Diameter Pad"                              PTH3       PTH-M2                TopLayer 0        
+0.000         -1771.653     PTH-M2                                "M2 Clearance (2.2 mm) Plated Through Hole, 6mm Diameter Pad"                              PTH2       PTH-M2                TopLayer 0        
+1771.653      -1771.653     PTH-M2                                "M2 Clearance (2.2 mm) Plated Through Hole, 6mm Diameter Pad"                              PTH1       PTH-M2                TopLayer 0        
+890.551       -1284.252     ARDUINO_NANO                          "Small, complete, and breadboard-friendly board based on the ATmega328 (Arduino Nano 3.x)" TB1        SHIELD_ARDUINO_NANO   TopLayer 270      
+501.969       -58.071       B6B-XH-A(LF)(SN)                      "CONN HEADER VERT 6POS 2.5MM"                                                              J3         FP-B6B-XH-A_LF_SN-MFG TopLayer 180      
+1289.370      -58.071       B6B-XH-A(LF)(SN)                      "CONN HEADER VERT 6POS 2.5MM"                                                              J2         FP-B6B-XH-A_LF_SN-MFG TopLayer 180      
+1723.228      -540.551      1725656                               "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 9 mm, Tail Length 3.5 mm"              J1         PHOE-1725656-2        TopLayer 90       
+934.252       -545.276      "TB6612FNG Dual Motor Driver Carrier" ""                                                                                         BO1        DIP16_-_duplicate1    TopLayer 270      

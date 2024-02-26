@@ -1,0 +1,14 @@
+Added Component: Designator=BO3(PCBComponent_1)
+Added Pin To Net: NetName=+5V Pin=BO3-0
+Added Pin To Net: NetName=GND Pin=BO3-2
+Added Pin To Net: NetName=NetBO2_5 Pin=BO2-5
+Added Pin To Net: NetName=NetBO2_5 Pin=BO3-5
+Added Net: Name=NetBO2_5
+Added Pin To Net: NetName=NetBO2_6 Pin=BO2-6
+Added Pin To Net: NetName=NetBO2_6 Pin=BO3-4
+Added Net: Name=NetBO2_6
+Added Pin To Net: NetName=NetBO2_7 Pin=BO2-7
+Added Pin To Net: NetName=NetBO2_7 Pin=BO3-3
+Added Net: Name=NetBO2_7
+Added Member To Class: ClassName=Schemeatic_1_0 Member=Component BO2 Pico Custom
+Added Member To Class: ClassName=Schemeatic_1_0 Member=Component BO3 I2C breakout for MPU6050

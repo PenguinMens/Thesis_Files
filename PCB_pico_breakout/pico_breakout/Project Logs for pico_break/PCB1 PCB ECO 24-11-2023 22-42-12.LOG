@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=+12 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=MA1 Pin=U2-16
+Removed Pin From Net: NetName=MB1 Pin=U2-17
+Removed Pin From Net: NetName=PWMA Pin=U2-19
+Removed Pin From Net: NetName=PWMB Pin=U2-20
+Removed Pin From Net: NetName=BIN2 Pin=U2-21
+Removed Pin From Net: NetName=BIN1 Pin=U2-22
+Removed Pin From Net: NetName=AIN1 Pin=U2-24
+Removed Pin From Net: NetName=AIN2 Pin=U2-25
+Removed Pin From Net: NetName=MB2 Pin=U2-26
+Removed Pin From Net: NetName=MA2 Pin=U2-27
+Removed Pin From Net: NetName=+5V Pin=U2-36
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=J1
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=PTH1
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=PTH2
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=PTH3
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=PTH4
+Removed Member From Class: ClassName=Schemeatic_1_0 Member=U2
+Added Component: Designator=BO2(DIP40)
+Added Pin To Net: NetName=MA1 Pin=BO2-16
+Added Pin To Net: NetName=MB1 Pin=BO2-17
+Added Pin To Net: NetName=PWMA Pin=BO2-19
+Added Pin To Net: NetName=PWMB Pin=BO2-20
+Added Pin To Net: NetName=BIN2 Pin=BO2-21
+Added Pin To Net: NetName=BIN1 Pin=BO2-22
+Added Pin To Net: NetName=AIN1 Pin=BO2-24
+Added Pin To Net: NetName=AIN2 Pin=BO2-25
+Added Pin To Net: NetName=MB2 Pin=BO2-26
+Added Pin To Net: NetName=MA2 Pin=BO2-27
+Added Pin To Net: NetName=+5V Pin=BO2-36
+Added Pin To Net: NetName=GND Pin=BO2-38
+Added Member To Class: ClassName=Schemeatic_1_0 Member=Component BO2 Pico Custom

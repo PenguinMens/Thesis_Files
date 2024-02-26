@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+E:\Thesis\PCB_PICO_SMT\Imported RP2040_minimal\Project Outputs for RP2040_minimal\Pick Place for RP2040_minimal.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/23
+Time:       21:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U5","MPU-6050","TopLayer","QFN50P400X400X95-24N","-42.6000mm","-8.0750mm","90","MPU-6050 series Accelerometer, Gyroscope, 3 Axis Sensor Evaluation Board"
+"C11","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-29.9250mm","-20.5750mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"R7","ERA-3AEB103V","TopLayer","FP-ERA3A-IPC_C","-43.1000mm","-24.1000mm","270","RES SMD 10K OHM 0.1% 1/10W 0603"
+"R6","ERA-3AEB103V","TopLayer","FP-ERA3A-IPC_C","-44.0000mm","-28.6744mm","90","RES SMD 10K OHM 0.1% 1/10W 0603"
+"C3","GCM1555C1H270JA16D","TopLayer","FP-GCM155-0_05-IPC_B","-28.5720mm","-32.5126mm","45","Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"
+"Y1","ABLS-12.000MHZ-B4-T","TopLayer","Crystal_SMD_HC49-US","-27.4570mm","-36.5977mm","45",""
+"U4","TB6612FNG,C,8,EL","TopLayer","FP-SSOP24-P-300-0_65A-IPC_A","-11.6000mm","-32.8250mm","180","IC MOTOR DRIVER 2.7V-5.5V 24SSOP"
+"SW2","B3U-1000P","TopLayer","FP-B3U-1000P-MFG","-21.5000mm","-20.7500mm","180","SWITCH TACTILE SPST-NO 0.05A 12V"
+"SW1","B3U-1000P","TopLayer","FP-B3U-1000P-MFG","-30.6000mm","-3.7000mm","270","SWITCH TACTILE SPST-NO 0.05A 12V"
+"R5","ERJ-2RKF1001X","TopLayer","RESC1005X40X25NL05T05","-30.7215mm","-31.6692mm","135","Chip Resistor, 1 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"J4","B6B-XH-A(LF)(SN)","TopLayer","FP-B6B-XH-A_LF_SN-MFG","0.3250mm","-13.4250mm","90","CONN HEADER VERT 6POS 2.5MM"
+"J3","B6B-XH-A(LF)(SN)","TopLayer","FP-B6B-XH-A_LF_SN-MFG","0.3000mm","-31.2000mm","90","CONN HEADER VERT 6POS 2.5MM"
+"C23","C0603X104K5RACTU","TopLayer","FP-C0603-CJ-MFG","-41.3250mm","-3.6500mm","90","CAP CER 0.1UF 50V X7R 0603"
+"C22","C0603X222K5RACTU","TopLayer","CAPC1608X87X35NL15T15","-45.7000mm","-4.7250mm","90",""
+"C21","C0603C103J3GACTU","TopLayer","FP-C0603C-CF-MFG","-39.1000mm","-3.5000mm","90","CAP CER 10000PF 25V 5% NP0 0603"
+"C20","C0603X104K5RACTU","TopLayer","FP-C0603-CJ-MFG","-37.5500mm","-8.3250mm","270","CAP CER 0.1UF 50V X7R 0603"
+"C19","TR8M106M010C2000","TopLayer","VISH-TR8-M_L","-16.9000mm","-39.5000mm","180","Tantalum Capacitor, 10 uF, +/- 20%, 10 V, -55 to 125 degC, 2-Pin SMD (M), RoHS, Tape and Reel"
+"C18","C0603X104K5RACTU","TopLayer","FP-C0603-CJ-MFG","-16.8500mm","-37.9500mm","0","CAP CER 0.1UF 50V X7R 0603"
+"U1","NCP1117-3.3_SOT223","TopLayer","SOT-223-3_TabPin2","-13.5900mm","-8.9500mm","270",""
+"U2","W25Q128JVS","TopLayer","SOIC127P790X216-8N","-28.5400mm","-13.3750mm","0",""
+"C1","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-MFG","-13.6525mm","-2.6000mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"C2","GCM1555C1H270JA16D","TopLayer","FP-GCM155-0_05-IPC_B","-32.2780mm","-34.0187mm","225","Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"
+"C4","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-MFG","-13.5500mm","-14.9000mm","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"C5","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-25.4050mm","-8.9300mm","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C6","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-38.6500mm","-19.1000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C7","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-28.2750mm","-28.6157mm","315","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C8","GCM1555C1H270JA16D","TopLayer","FP-GCM155-0_05-IPC_B","-34.2000mm","-19.1000mm","90","Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"
+"C9","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-37.6112mm","-19.1000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C10","GCM1555C1H270JA16D","TopLayer","FP-GCM155-0_05-IPC_B","-32.6250mm","-19.1000mm","90","Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"
+"C12","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-15.1000mm","-19.2750mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C13","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-30.0036mm","-19.1750mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C14","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-29.8427mm","-29.8480mm","315","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C15","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-15.1050mm","-22.1000mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C16","GRM155R71E104KE14J","TopLayer","FP-GRM155-0_05-IPC_C","-15.1050mm","-20.7000mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"
+"C17","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-MFG","-5.9750mm","-7.2000mm","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"J1","USB_B_Micro","TopLayer","USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified","-21.5900mm","-0.5900mm","180",""
+"R1","ERJ-2RKF1001X","TopLayer","RESC1005X40X25NL05T05","-30.5900mm","-8.4150mm","270","Chip Resistor, 1 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"R2","DNF","TopLayer","0402-A","-32.0900mm","-8.4150mm","270",""
+"R3","RC0402FR-0727R4L","TopLayer","RESC1005X40X25ML05T10","-36.4750mm","-19.0250mm","90",""
+"R4","RC0402FR-0727R4L","TopLayer","RESC1005X40X25ML05T10","-35.4250mm","-19.0250mm","90",""
+"U3","RP2040","TopLayer","Pico2040-QFN-56","-35.1514mm","-25.7779mm","45",""

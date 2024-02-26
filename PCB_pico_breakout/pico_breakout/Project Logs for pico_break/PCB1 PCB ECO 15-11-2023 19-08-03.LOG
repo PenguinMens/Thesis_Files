@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MA2 Pin=U2-17
+Removed Pin From Net: NetName=MB1 Pin=U2-27
+Added Pin To Net: NetName=MB1 Pin=U2-17
+Added Pin To Net: NetName=MA2 Pin=U2-27
+Added Member To Class: ClassName=Schemeatic_1_0 Member=Component U2 RPI-PICO-MOD
+Added Room: Name=Schemeatic_1_0

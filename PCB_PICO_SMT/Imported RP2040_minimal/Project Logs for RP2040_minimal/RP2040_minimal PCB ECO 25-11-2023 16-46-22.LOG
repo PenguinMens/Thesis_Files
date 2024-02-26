@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Member From Class: ClassName=RP2040_minimal Member=R7
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U5-9
+Change Net Name : Old Net Name=GND New Net Name=AD0

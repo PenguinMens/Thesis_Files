@@ -1,0 +1,10 @@
+Added Component: Designator=C9(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Member To Class: ClassName=RP2040_minimal Member=Component C9 0.1uf
+Add Class Member: Failed to add class member : Component U1 NCP1117-3.3_SOT223

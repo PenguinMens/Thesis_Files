@@ -1,0 +1,29 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=NCP1117-3.3_SOT223
+Added Component: Designator=C9(CAPC1608X87X45ML20T05)
+Added Component: Designator=C11(CAPC1608X87X45ML20T05)
+Added Component: Designator=C12(CAPC1608X87X45ML20T05)
+Added Component: Designator=C13(CAPC1608X87X45ML20T05)
+Added Component: Designator=C14(CAPC1608X87X45ML20T05)
+Added Component: Designator=C15(CAPC1608X87X45ML20T05)
+Added Component: Designator=C16(CAPC1608X87X45ML20T05)
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Class Member: Failed to add class member : Component C9 0.1uf
+Add Class Member: Failed to add class member : Component C11 0.1uf
+Add Class Member: Failed to add class member : Component C12 0.1uf
+Add Class Member: Failed to add class member : Component C13 0.1uf
+Add Class Member: Failed to add class member : Component C14 0.1uf
+Add Class Member: Failed to add class member : Component C15 0.1uf
+Add Class Member: Failed to add class member : Component C16 0.1uf

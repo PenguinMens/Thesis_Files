@@ -1,0 +1,4 @@
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=BO1
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=BO2
+Added Member To Class: ClassName=RP2040_minimal Member=Component C3 GCM1555C1H270JA16D

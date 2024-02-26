@@ -1,0 +1,5 @@
+Added Component: Designator=U1(USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=VBUS Pin=U1-3
+Added Member To Class: ClassName=RP2040_minimal Member=Component U1

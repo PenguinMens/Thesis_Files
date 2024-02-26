@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\PenguinMen\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick Place\Pick Place for RP2040_minimal.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/23
+Time:       20:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment             Description                                                                                     Designator Footprint                                                Layer    Rotation 
+-1677.165     -317.913      MPU-6050            "MPU-6050 series Accelerometer, Gyroscope, 3 Axis Sensor Evaluation Board"                      U2         QFN50P400X400X95-24N                                     TopLayer 90       
+-1178.150     -810.039      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C11        FP-GRM155-0_05-IPC_C                                     TopLayer 0        
+-1696.850     -948.819      ERA-3AEB103V        "RES SMD 10K OHM 0.1% 1/10W 0603"                                                               R7         FP-ERA3A-IPC_C                                           TopLayer 270      
+-1732.284     -1128.911     ERA-3AEB103V        "RES SMD 10K OHM 0.1% 1/10W 0603"                                                               R6         FP-ERA3A-IPC_C                                           TopLayer 90       
+-1124.880     -1280.025     GCM1555C1H270JA16D  "Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"                            C3         FP-GCM155-0_05-IPC_B                                     TopLayer 45       
+-1080.984     -1440.853     ABLS-12.000MHZ-B4-T ""                                                                                              Y1         Crystal_SMD_HC49-US                                      TopLayer 45       
+-456.693      -1292.323     TB6612FNG,C,8,EL    "IC MOTOR DRIVER 2.7V-5.5V 24SSOP"                                                              U4         FP-SSOP24-P-300-0_65A-IPC_A                              TopLayer 180      
+-846.457      -816.929      B3U-1000P           "SWITCH TACTILE SPST-NO 0.05A 12V"                                                              SW2        FP-B3U-1000P-MFG                                         TopLayer 180      
+-1204.724     -145.669      B3U-1000P           "SWITCH TACTILE SPST-NO 0.05A 12V"                                                              SW1        FP-B3U-1000P-MFG                                         TopLayer 270      
+-1209.506     -1246.820     ERJ-8ENF1001V       ""                                                                                              R5         0402                                                     TopLayer 135      
+12.795        -528.543      B6B-XH-A(LF)(SN)    "CONN HEADER VERT 6POS 2.5MM"                                                                   J4         FP-B6B-XH-A_LF_SN-MFG                                    TopLayer 90       
+11.811        -1228.347     B6B-XH-A(LF)(SN)    "CONN HEADER VERT 6POS 2.5MM"                                                                   J3         FP-B6B-XH-A_LF_SN-MFG                                    TopLayer 90       
+-1626.969     -143.701      C0603X104K5RACTU    "CAP CER 0.1UF 50V X7R 0603"                                                                    C23        FP-C0603-CJ-MFG                                          TopLayer 90       
+-1799.213     -186.024      C0603X222K5RACTU    ""                                                                                              C22        CAPC1608X87X35NL15T15                                    TopLayer 90       
+-1539.370     -137.795      C0603C103J3GACTU    "CAP CER 10000PF 25V 5% NP0 0603"                                                               C21        FP-C0603C-CF-MFG                                         TopLayer 90       
+-1478.347     -327.756      C0603X104K5RACTU    "CAP CER 0.1UF 50V X7R 0603"                                                                    C20        FP-C0603-CJ-MFG                                          TopLayer 270      
+-665.354      -1555.118     TR8M106M010C2000    "Tantalum Capacitor, 10 uF, +/- 20%, 10 V, -55 to 125 degC, 2-Pin SMD (M), RoHS, Tape and Reel" C19        VISH-TR8-M_L                                             TopLayer 180      
+-663.386      -1494.094     C0603X104K5RACTU    "CAP CER 0.1UF 50V X7R 0603"                                                                    C18        FP-C0603-CJ-MFG                                          TopLayer 0        
+-535.039      -352.362      NCP1117-3.3_SOT223  ""                                                                                              U1         SOT-223-3_TabPin2                                        TopLayer 270      
+-1123.622     -526.575      W25Q128JVS          ""                                                                                              U2         SOIC127P790X216-8N                                       TopLayer 0        
+-537.500      -102.362      GRM21BR61C106KE15K  "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"        C1         FP-GRM21B-0_1-MFG                                        TopLayer 0        
+-1270.789     -1339.320     GCM1555C1H270JA16D  "Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"                            C2         FP-GCM155-0_05-IPC_B                                     TopLayer 225      
+-533.465      -586.614      GRM21BR61C106KE15K  "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"        C4         FP-GRM21B-0_1-MFG                                        TopLayer 270      
+-1000.197     -351.575      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C5         FP-GRM155-0_05-IPC_C                                     TopLayer 180      
+-1521.653     -751.968      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C6         FP-GRM155-0_05-IPC_C                                     TopLayer 90       
+-1113.189     -1126.602     GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C7         FP-GRM155-0_05-IPC_C                                     TopLayer 315      
+-1346.457     -751.968      GCM1555C1H270JA16D  "Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"                            C8         FP-GCM155-0_05-IPC_B                                     TopLayer 90       
+-1480.757     -751.968      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C9         FP-GRM155-0_05-IPC_C                                     TopLayer 90       
+-1284.449     -751.968      GCM1555C1H270JA16D  "Ceramic Capacitor for Automotive 27pF ±5% 50VDC C0G 0402 Paper T/R"                            C10        FP-GCM155-0_05-IPC_B                                     TopLayer 90       
+-594.488      -758.858      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C12        FP-GRM155-0_05-IPC_C                                     TopLayer 0        
+-1181.243     -754.921      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C13        FP-GRM155-0_05-IPC_C                                     TopLayer 0        
+-1174.909     -1175.118     GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C14        FP-GRM155-0_05-IPC_C                                     TopLayer 315      
+-594.685      -870.079      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C15        FP-GRM155-0_05-IPC_C                                     TopLayer 0        
+-594.685      -814.961      GRM155R71E104KE14J  "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 25V"      C16        FP-GRM155-0_05-IPC_C                                     TopLayer 0        
+-235.236      -283.465      GRM21BR61C106KE15K  "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"        C17        FP-GRM21B-0_1-MFG                                        TopLayer 0        
+-850.000      -23.228       USB_B_Micro         ""                                                                                              J1         USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified TopLayer 180      
+-1204.331     -331.299      RC0402FR-0727R4L    ""                                                                                              R1         RESC1005X40X25ML05T10                                    TopLayer 270      
+-1263.386     -331.299      DNF                 ""                                                                                              R2         0402-A                                                   TopLayer 270      
+-1436.024     -749.016      RC0402FR-0727R4L    ""                                                                                              R3         RESC1005X40X25ML05T10                                    TopLayer 90       
+-1394.685     -749.016      RC0402FR-0727R4L    ""                                                                                              R4         RESC1005X40X25ML05T10                                    TopLayer 90       
+-1383.915     -1014.878     RP2040              ""                                                                                              U3         Pico2040-QFN-56                                          TopLayer 45       

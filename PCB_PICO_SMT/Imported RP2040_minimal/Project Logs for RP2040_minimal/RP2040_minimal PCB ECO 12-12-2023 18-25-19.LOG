@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=+3V3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=+3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=+3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=+3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Change Footprint: Cannot match pads with new footprint in component :C9 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C11 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C12 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C13 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C14 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C15 Footprint:CAPC1608X87X45ML20T05
+Change Footprint: Cannot match pads with new footprint in component :C16 Footprint:CAPC1608X87X45ML20T05
+Change Component Comment : Designator=C9 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C11 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C12 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C13 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C14 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C15 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Component Comment : Designator=C16 Old Comment=GRM155R71E104KE14J New Comment=0.1uf
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8545C89E-5C96-4E85-9317-131C17246F5E New ItemGUID=60D89B13-62B4-4D7D-B63E-8E34E21DE009 Old RevisionGUID=2AFD3B4B-4A16-43BA-94F0-C199390A9A11 New RevisionGUID=061AA503-E3F9-4B62-AFF1-E89B474B8A31
+Change component parameters: Designator = "C9" ("C9"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\VZAXWGOJ" ("\VZAXWGOJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\DVEKKTJS" ("\DVEKKTJS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\NFQSWNJV" ("\NFQSWNJV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\QCIWVGQR" ("\QCIWVGQR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\GBLVPHHT" ("\GBLVPHHT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\NDTPZWTN" ("\NDTPZWTN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\HXABJJNU" ("\HXABJJNU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3V3 Pin=C16-2

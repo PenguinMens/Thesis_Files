@@ -1,0 +1,88 @@
+Added Component: Designator=BO1(DIP16 - duplicate1)
+Added Component: Designator=J1(PHOE-1725656-2)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Content"; Value = "250pc(s)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/1725656-Phoenix-Contact-datasheet-5302866.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Industrial packaging"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part No."; Value = "1725656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MPT0,5/2-2,54"; VariantName = "[No Variations]"
+Added Component: Designator=J2(FP-B6B-XH-A_LF_SN-MFG)
+Added Component: Designator=J3(FP-B6B-XH-A_LF_SN-MFG)
+Added Component: Designator=TB1(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=BO1-12
+Added Pin To Net: NetName=+5 Pin=TB1-27
+Added Net: Name=+5
+Added Pin To Net: NetName=+5V Pin=BO1-2
+Added Pin To Net: NetName=+5V Pin=J2-5
+Added Pin To Net: NetName=+5V Pin=J3-5
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12 Pin=BO1-7
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=+12 Pin=TB1-30
+Added Net: Name=+12
+Added Pin To Net: NetName=A01 Pin=BO1-3
+Added Pin To Net: NetName=A01 Pin=J2-1
+Added Net: Name=A01
+Added Pin To Net: NetName=A02 Pin=BO1-4
+Added Pin To Net: NetName=A02 Pin=J2-6
+Added Net: Name=A02
+Added Pin To Net: NetName=AIN1 Pin=BO1-11
+Added Pin To Net: NetName=AIN1 Pin=TB1-9
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=BO1-10
+Added Pin To Net: NetName=AIN2 Pin=TB1-10
+Added Net: Name=AIN2
+Added Pin To Net: NetName=B01 Pin=BO1-6
+Added Pin To Net: NetName=B01 Pin=J3-1
+Added Net: Name=B01
+Added Pin To Net: NetName=B02 Pin=BO1-5
+Added Pin To Net: NetName=B02 Pin=J3-6
+Added Net: Name=B02
+Added Pin To Net: NetName=BIN1 Pin=BO1-13
+Added Pin To Net: NetName=BIN1 Pin=TB1-11
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=BO1-14
+Added Pin To Net: NetName=BIN2 Pin=TB1-14
+Added Net: Name=BIN2
+Added Pin To Net: NetName=GND Pin=BO1-1
+Added Pin To Net: NetName=GND Pin=BO1-8
+Added Pin To Net: NetName=GND Pin=BO1-16
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=TB1-4
+Added Pin To Net: NetName=GND Pin=TB1-29
+Added Net: Name=GND
+Added Pin To Net: NetName=MA1 Pin=J2-4
+Added Pin To Net: NetName=MA1 Pin=TB1-6
+Added Net: Name=MA1
+Added Pin To Net: NetName=MA2 Pin=J3-4
+Added Pin To Net: NetName=MA2 Pin=TB1-8
+Added Net: Name=MA2
+Added Pin To Net: NetName=MB1 Pin=J2-3
+Added Pin To Net: NetName=MB1 Pin=TB1-5
+Added Net: Name=MB1
+Added Pin To Net: NetName=MB2 Pin=J3-3
+Added Pin To Net: NetName=MB2 Pin=TB1-7
+Added Net: Name=MB2
+Added Pin To Net: NetName=PWMA Pin=BO1-9
+Added Pin To Net: NetName=PWMA Pin=TB1-12
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=BO1-15
+Added Pin To Net: NetName=PWMB Pin=TB1-13
+Added Net: Name=PWMB
+Added Class: Name=Schemeatic_1_0
+Added Room: Name=Schemeatic_1_0

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RP2040_minimal.PcbDoc   25/11/2023  20:37:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : F.Cu to B.Cu
+ASCII RoundHoles File : RP2040_minimal-RoundHoles.TXT
+ASCII SlotHoles File : RP2040_minimal-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             64        PTH        13.29inch (337.63mm)
+T2      26mil (0.65mm)                                            Slot              2         PTH        0.41inch (10.52mm)
+T3      28mil (0.7mm)                                             Slot              2         PTH        0.47inch (11.92mm)
+T4      28mil (0.711mm)                                           Round             2         PTH        1.27inch (32.16mm)
+T5      35mil (0.9mm)                                             Round             12        PTH        1.19inch (30.28mm)
+T6      39mil (1mm)                                               Round             2         PTH        0.20inch (5.08mm)
+T7      110mil (2.8mm)                                            Round             4         PTH        5.20inch (132.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              88
+
+Total Processing Time (hh:mm:ss) : 00:00:00

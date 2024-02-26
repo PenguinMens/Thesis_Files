@@ -1,0 +1,26 @@
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Added Component: Designator=U5(IS-QFN-24_V)
+Add component (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.3, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MPU-60506-Axis,IntegratedI²CSolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "1428-1007-2
+MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "MotionTracking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "5,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit PriceUSD"; Value = "Digital"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U5-8
+Added Pin To Net: NetName=NetC20_1 Pin=U5-10
+Added Pin To Net: NetName=INT Pin=U5-12
+Added Pin To Net: NetName=+3V3 Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=NetC22_1 Pin=U5-20
+Added Pin To Net: NetName=SCL Pin=U5-23
+Added Pin To Net: NetName=SDA Pin=U5-24
+Added Member To Class: ClassName=RP2040_minimal Member=Component U5 MPU-6050

@@ -1,0 +1,20 @@
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Added Component: Designator=U2(QFN50P400X400X95-24N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MPU-6050/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName=NetC20_1 Pin=U2-10
+Added Pin To Net: NetName=INT Pin=U2-12
+Added Pin To Net: NetName=+3V3 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=NetC22_1 Pin=U2-20
+Added Pin To Net: NetName=SCL Pin=U2-23
+Added Pin To Net: NetName=SDA Pin=U2-24
+Added Member To Class: ClassName=RP2040_minimal Member=Component U2 W25Q128JVS

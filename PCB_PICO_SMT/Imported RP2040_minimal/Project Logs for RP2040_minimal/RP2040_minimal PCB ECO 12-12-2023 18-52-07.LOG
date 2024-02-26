@@ -1,0 +1,36 @@
+Added Component: Designator=C11(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1608X87X45ML20T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104J4RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3V3 Pin=C16-2
+Added Member To Class: ClassName=RP2040_minimal Member=Component C11 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C12 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C13 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C14 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C15 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C16 0.1uf

@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\PenguinMen\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/23
+Time:       10:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment                               Description                   Designator Footprint             Layer    Rotation 
+205.512       -959.646      "I2C breakout for MPU6050"            "I2C breakout for MPU6050"    BO3        PCBComponent_1        TopLayer 90       
+963.000       -1450.000     "Pico Custom"                         ""                            BO2        DIP40                 TopLayer 90       
+501.969       -58.071       B6B-XH-A(LF)(SN)                      "CONN HEADER VERT 6POS 2.5MM" J3         FP-B6B-XH-A_LF_SN-MFG TopLayer 180      
+1289.370      -58.071       B6B-XH-A(LF)(SN)                      "CONN HEADER VERT 6POS 2.5MM" J2         FP-B6B-XH-A_LF_SN-MFG TopLayer 180      
+1224.803      -545.276      "TB6612FNG Dual Motor Driver Carrier" ""                            BO1        DIP16_-_duplicate1    TopLayer 270      

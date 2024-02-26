@@ -1,0 +1,64 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=NCP1117-3.3_SOT223 New DesignItemId=
+Change Component Library : Designator=U1 Old Library=Regulator_Linear New Library=RP2040_minimal.SchLib
+Added Component: Designator=C9(CAPC1608X87X45ML20T05)
+Added Component: Designator=C11(CAPC1608X87X45ML20T05)
+Added Component: Designator=C12(CAPC1608X87X45ML20T05)
+Added Component: Designator=C13(CAPC1608X87X45ML20T05)
+Added Component: Designator=C14(CAPC1608X87X45ML20T05)
+Added Component: Designator=C15(CAPC1608X87X45ML20T05)
+Added Component: Designator=C16(CAPC1608X87X45ML20T05)
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Added Member To Class: ClassName=RP2040_minimal Member=Component C1 GRM21BR61C106KE15K
+Added Member To Class: ClassName=RP2040_minimal Member=Component C2 GCM1555C1H270JA16D
+Added Member To Class: ClassName=RP2040_minimal Member=Component C3 GCM1555C1H270JA16D
+Added Member To Class: ClassName=RP2040_minimal Member=Component C4 GRM21BR61C106KE15K
+Added Member To Class: ClassName=RP2040_minimal Member=Component C5 GRM155R71E104KE14J
+Added Member To Class: ClassName=RP2040_minimal Member=Component C6 GRM155R71E104KE14J
+Added Member To Class: ClassName=RP2040_minimal Member=Component C7 GRM155R71E104KE14J
+Added Member To Class: ClassName=RP2040_minimal Member=Component C8 GCM1555C1H270JA16D
+Add Class Member: Failed to add class member : Component C9 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C10 GCM1555C1H270JA16D
+Add Class Member: Failed to add class member : Component C11 0.1uf
+Add Class Member: Failed to add class member : Component C12 0.1uf
+Add Class Member: Failed to add class member : Component C13 0.1uf
+Add Class Member: Failed to add class member : Component C14 0.1uf
+Add Class Member: Failed to add class member : Component C15 0.1uf
+Add Class Member: Failed to add class member : Component C16 0.1uf
+Added Member To Class: ClassName=RP2040_minimal Member=Component C17 GRM21BR61C106KE15K
+Added Member To Class: ClassName=RP2040_minimal Member=Component C18 C0603X104K5RACTU
+Added Member To Class: ClassName=RP2040_minimal Member=Component C19 TR8M106M010C2000
+Added Member To Class: ClassName=RP2040_minimal Member=Component C20 C0603X104K5RACTU
+Added Member To Class: ClassName=RP2040_minimal Member=Component C21 C0603C103J3GACTU
+Added Member To Class: ClassName=RP2040_minimal Member=Component C22 C0603X222K5RACTU
+Added Member To Class: ClassName=RP2040_minimal Member=Component C23 C0603X104K5RACTU
+Added Member To Class: ClassName=RP2040_minimal Member=Component J1 USB_B_Micro
+Added Member To Class: ClassName=RP2040_minimal Member=Component J3 B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RP2040_minimal Member=Component J4 B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RP2040_minimal Member=Component R1 ERJ-2RKF1001X
+Added Member To Class: ClassName=RP2040_minimal Member=Component R2 DNF
+Added Member To Class: ClassName=RP2040_minimal Member=Component R3 RC0402FR-0727R4L
+Added Member To Class: ClassName=RP2040_minimal Member=Component R4 RC0402FR-0727R4L
+Added Member To Class: ClassName=RP2040_minimal Member=Component R5 ERJ-2RKF1001X
+Added Member To Class: ClassName=RP2040_minimal Member=Component R6 ERA-3AEB103V
+Added Member To Class: ClassName=RP2040_minimal Member=Component R7 ERA-3AEB103V
+Added Member To Class: ClassName=RP2040_minimal Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=RP2040_minimal Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=RP2040_minimal Member=Component U1 NCP1117-3.3_SOT223
+Added Member To Class: ClassName=RP2040_minimal Member=Component U2 cutom W25Q128JVS
+Added Member To Class: ClassName=RP2040_minimal Member=Component U3 RP2040
+Added Member To Class: ClassName=RP2040_minimal Member=Component U4 TB6612FNG,C,8,EL
+Added Member To Class: ClassName=RP2040_minimal Member=Component U5 MPU-6050
+Added Member To Class: ClassName=RP2040_minimal Member=Component Y1 ABLS-12.000MHZ-B4-T

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RP2040_minimal.GBR   25/11/2023  20:37:28
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                F.SilkS                                 
+.GTP                F.Paste                                 
+.GTS                F.Mask                                  
+.GTL                F.Cu                                    
+.GBL                B.Cu                                    
+.GBS                B.Mask                                  
+.GBP                B.Paste                                 
+.GBO                B.SilkS                                 
+.GM1                Margin                                  
+.GM7                Cmts.User                               
+.GM13               Top 3D Body                             
+.GM15               Top Courtyard                           
+.GM16               Top Component Center                    
+.GKO                Edge.Cuts                               
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

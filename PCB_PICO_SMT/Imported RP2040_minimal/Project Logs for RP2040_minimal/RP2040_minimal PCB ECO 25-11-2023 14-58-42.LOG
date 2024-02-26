@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USB_D_P Pin=R4-2
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Added Pin To Net: NetName=USB_D_N Pin=R4-2

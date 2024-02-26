@@ -1,0 +1,21 @@
+Change Component Comment : Designator=U2 Old Comment=Comment New Comment=RPI-PICO-MOD
+Change component parameters: Designator = "U2" ("U2"); Footprint = "RPI-PICO-MOD"; UniqueID = "\MWPEWHGI" ("\MWPEWHGI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi Foundation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "SC0915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13684020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part No"; Value = "2648-SC0915CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MA1 Pin=U2-16
+Added Pin To Net: NetName=MA2 Pin=U2-17
+Added Pin To Net: NetName=PWMA Pin=U2-19
+Added Pin To Net: NetName=PWMB Pin=U2-20
+Added Pin To Net: NetName=BIN2 Pin=U2-21
+Added Pin To Net: NetName=BIN1 Pin=U2-22
+Added Pin To Net: NetName=AIN1 Pin=U2-24
+Added Pin To Net: NetName=AIN2 Pin=U2-25
+Added Pin To Net: NetName=MB2 Pin=U2-26
+Added Pin To Net: NetName=MB1 Pin=U2-27
+Added Pin To Net: NetName=+5V Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-38
+Added Member To Class: ClassName=Schemeatic_1_0 Member=Component U2 RPI-PICO-MOD

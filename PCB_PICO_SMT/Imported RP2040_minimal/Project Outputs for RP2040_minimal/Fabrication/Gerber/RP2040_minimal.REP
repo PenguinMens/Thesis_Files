@@ -1,0 +1,405 @@
+*************************************************************
+FileName = RP2040_minimal.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : RP2040_minimal.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : RP2040_minimal.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D16
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : RP2040_minimal.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Cmts.User
+      File : RP2040_minimal.GM7
+
+    Adding Layer      : Cmts.User
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Margin
+      File : RP2040_minimal.GM1
+
+    Adding Layer      : Margin
+
+
+Used DCodes :
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Edge.Cuts
+      File : RP2040_minimal.GKO
+
+    Adding Layer      : Edge.Cuts
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : RP2040_minimal.GBO
+
+    Adding Layer      : B.SilkS
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : B.Paste
+      File : RP2040_minimal.GBP
+
+    Adding Layer      : B.Paste
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : RP2040_minimal.GBS
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : RP2040_minimal.GTS
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D29
+    D30
+    D31
+    D40
+    D42
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : F.Paste
+      File : RP2040_minimal.GTP
+
+    Adding Layer      : F.Paste
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : F.SilkS
+      File : RP2040_minimal.GTO
+
+    Adding Layer      : F.SilkS
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RP2040_minimal.GPT
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D74
+    D75
+    D79
+    D80
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RP2040_minimal.GPB
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D74
+    D75
+    D79
+    D80
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : RP2040_minimal.GBL
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D16
+    D54
+    D74
+    D75
+    D79
+    D80
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : F.Cu
+      File : RP2040_minimal.GTL
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D16
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D74
+    D75
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : RP2040_minimal.GM
+
+
+Used DCodes :
+    D89
+*************************************************************
+

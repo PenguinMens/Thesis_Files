@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=R5 Old DesignItemId=CMP-2003-00017-1 New DesignItemId=
+Change Component Footprint: Designator=R5 Old Footprint=RESC3216X70X50LL05T20 New Footprint=0402
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:SOT223_M
+Change Component Library : Designator=R5 Old Library=Altium Content Vault New Library=RP2040_minimal.SchLib
+Change Managed Component Library Link : Designator=R5 Old VaultGUID= New VaultGUID= Old ItemGUID=B95C2681-8512-4689-B78C-BC5348C49289 New ItemGUID= Old RevisionGUID=A536877C-CD22-4EF0-BB7A-8A1A83B82BCF New RevisionGUID=
