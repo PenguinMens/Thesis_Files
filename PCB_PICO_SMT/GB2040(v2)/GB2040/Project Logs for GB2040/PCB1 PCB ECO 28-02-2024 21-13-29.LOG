@@ -1,0 +1,99 @@
+Change Component Comment : Designator=U4 Old Comment=RegulatorSW New Comment=BD9D300MUV-E2
+Add Component: Footprint Not Found PQFN50P300X250X97-14N
+Add Component: Footprint Not Found SOIC127P790X216-8N
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-12
+Add Pin To Net: Unknown Pin: Pin U5-13
+Add Pin To Net: Unknown Pin: Pin U5-14
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Added Member To Class: ClassName=board schematic Member=Component C1 10u L
+Added Member To Class: ClassName=board schematic Member=Component C2 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C3 47u
+Added Member To Class: ClassName=board schematic Member=Component C4 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C5 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C6 15p
+Added Member To Class: ClassName=board schematic Member=Component C7 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C8 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C9 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C10 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C11 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C12 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C13 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C14 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C15 1u
+Added Member To Class: ClassName=board schematic Member=Component C16 10u L
+Added Member To Class: ClassName=board schematic Member=Component C17 10u L
+Added Member To Class: ClassName=board schematic Member=Component C18 1u
+Added Member To Class: ClassName=board schematic Member=Component C19 47u
+Added Member To Class: ClassName=board schematic Member=Component C20 47u
+Added Member To Class: ClassName=board schematic Member=Component C21 15p
+Added Member To Class: ClassName=board schematic Member=Component C22 10u
+Added Member To Class: ClassName=board schematic Member=Component C23 10u
+Added Member To Class: ClassName=board schematic Member=Component C24 10u
+Added Member To Class: ClassName=board schematic Member=Component C25 10u
+Added Member To Class: ClassName=board schematic Member=Component C26 10u
+Added Member To Class: ClassName=board schematic Member=Component C27 10u
+Added Member To Class: ClassName=board schematic Member=Component C28 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C29 10u
+Added Member To Class: ClassName=board schematic Member=Component C30 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C31 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C32 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C33 10u L
+Added Member To Class: ClassName=board schematic Member=Component C34 2.2u
+Added Member To Class: ClassName=board schematic Member=Component C35 0.1u
+Added Member To Class: ClassName=board schematic Member=Component C36 10u
+Added Member To Class: ClassName=board schematic Member=Component D1 150080VS75000
+Added Member To Class: ClassName=board schematic Member=Component J2 Barrel jack
+Added Member To Class: ClassName=board schematic Member=Component J3 YS
+Added Member To Class: ClassName=board schematic Member=Component J4 USB A
+Added Member To Class: ClassName=board schematic Member=Component J5 B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=board schematic Member=Component J6 B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=board schematic Member=Component L1 2.2uH
+Added Member To Class: ClassName=board schematic Member=Component M1 Servo1
+Added Member To Class: ClassName=board schematic Member=Component M2 Servo2
+Added Member To Class: ClassName=board schematic Member=Component M3 Sonic
+Added Member To Class: ClassName=board schematic Member=Component R1 5k1
+Added Member To Class: ClassName=board schematic Member=Component R2 5k1
+Added Member To Class: ClassName=board schematic Member=Component R3 100k
+Added Member To Class: ClassName=board schematic Member=Component R4 270k
+Added Member To Class: ClassName=board schematic Member=Component R5 51k
+Added Member To Class: ClassName=board schematic Member=Component R6 27.4
+Added Member To Class: ClassName=board schematic Member=Component R7 27.4
+Added Member To Class: ClassName=board schematic Member=Component R8 270k
+Added Member To Class: ClassName=board schematic Member=Component R9 1k
+Added Member To Class: ClassName=board schematic Member=Component R10 51k
+Added Member To Class: ClassName=board schematic Member=Component R11 1k
+Added Member To Class: ClassName=board schematic Member=Component R12 51k
+Added Member To Class: ClassName=board schematic Member=Component SW1 B3U-1000P-B
+Added Member To Class: ClassName=board schematic Member=Component SW2 B3U-1000P-B
+Added Member To Class: ClassName=board schematic Member=Component TP1 TP
+Added Member To Class: ClassName=board schematic Member=Component TP2 TP
+Added Member To Class: ClassName=board schematic Member=Component TP3 TP
+Added Member To Class: ClassName=board schematic Member=Component TP4 TP
+Added Member To Class: ClassName=board schematic Member=Component TP5 TP
+Added Member To Class: ClassName=board schematic Member=Component TP6 TP
+Added Member To Class: ClassName=board schematic Member=Component TP7 TP
+Added Member To Class: ClassName=board schematic Member=Component TP8 TP
+Added Member To Class: ClassName=board schematic Member=Component TP9 TP
+Added Member To Class: ClassName=board schematic Member=Component TP10 TP
+Added Member To Class: ClassName=board schematic Member=Component TP11 TP
+Added Member To Class: ClassName=board schematic Member=Component U1 TB6612FNG,C,8,EL
+Added Member To Class: ClassName=board schematic Member=Component U2 AMS11173v3
+Added Member To Class: ClassName=board schematic Member=Component U3 RP2040
+Added Member To Class: ClassName=board schematic Member=Component U4 BD9D300MUV-E2
+Add Class Member: Failed to add class member : Component U5 ICM-42688-P
+Add Class Member: Failed to add class member : Component U6 W25Q128JVSIQ
+Added Member To Class: ClassName=board schematic Member=Component U7 AMS1117 5V
+Added Member To Class: ClassName=board schematic Member=Component Y1 ABM8-12.000MHZ-B2-T

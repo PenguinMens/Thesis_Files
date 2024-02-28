@@ -1,0 +1,11 @@
+Remove Pin=U5-1 From Net=MISO
+Remove Pin=U5-4 From Net=INT
+Remove Pin=U5-12 From Net=CSn
+Remove Pin=U6-2 From Net=QSPI_SD1
+Remove Pin=U6-3 From Net=QSPI_SD2
+Remove Pin=U6-5 From Net=QSPI_SD0
+Remove Pin=U6-6 From Net=QSPI_SCLK
+Remove Pin=U6-7 From Net=QSPI_SD3
+Change Component Footprint: Designator=J2 Old Footprint=694106301002 New Footprint=694106301002
+Change Component Footprint: Designator=U1 Old Footprint=FP-SSOP24-P-300-0_65A-IPC_A New Footprint=FP-SSOP24-P-300-0_65A-IPC_A
+Change Component Footprint: Designator=D1 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000

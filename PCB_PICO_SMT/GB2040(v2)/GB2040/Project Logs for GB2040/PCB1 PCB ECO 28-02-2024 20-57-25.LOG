@@ -1,0 +1,24 @@
+Add Component: Footprint Not Found PQFN50P300X250X97-14N
+Add Component: Footprint Not Found SOIC127P790X216-8N
+Added Pin To Net: NetName=NetL1_11 Pin=L1-1
+Added Pin To Net: NetName=VCC5V Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-12
+Add Pin To Net: Unknown Pin: Pin U5-13
+Add Pin To Net: Unknown Pin: Pin U5-14
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Change Net Name : Old Net Name=NetL1_11 New Net Name=NetL1_1
+Add Class Member: Failed to add class member : Component U5 ICM-42688-P
+Add Class Member: Failed to add class member : Component U6 W25Q128JVSIQ

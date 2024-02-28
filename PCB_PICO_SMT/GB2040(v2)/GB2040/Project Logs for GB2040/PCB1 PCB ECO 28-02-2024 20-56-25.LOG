@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=NetL1_1 Pin=L1-1
+Removed Pin From Net: NetName=VCC5V Pin=L1-2
+Add Component: Footprint Not Found PQFN50P300X250X97-14N
+Add Component: Footprint Not Found SOIC127P790X216-8N
+Added Pin To Net: NetName=Vin Pin=J2-1
+Added Pin To Net: NetName=VCC5V Pin=J4-01
+Added Pin To Net: NetName=BO1 Pin=J5-1
+Added Pin To Net: NetName=+3V3 Pin=J5-5
+Added Pin To Net: NetName=BO2 Pin=J5-6
+Added Pin To Net: NetName=AO1 Pin=J6-1
+Added Pin To Net: NetName=+3V3 Pin=J6-5
+Added Pin To Net: NetName=AO2 Pin=J6-6
+Add Pin To Net: Unknown Pin: Pin L1-11
+Add Pin To Net: Unknown Pin: Pin L1-12
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=+5V Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=+5V Pin=M2-2
+Added Pin To Net: NetName=+3V3 Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-4
+Added Pin To Net: NetName=USB_D_P Pin=R6-2
+Added Pin To Net: NetName=USB_D_N Pin=R7-2
+Added Pin To Net: NetName=+3V3 Pin=R12-1
+Added Pin To Net: NetName=MOSI Pin=TP3-1
+Added Pin To Net: NetName=SCK Pin=TP4-1
+Added Pin To Net: NetName=MOSI Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP8-1
+Added Pin To Net: NetName=+3V3 Pin=TP9-1
+Added Pin To Net: NetName=+5V Pin=TP10-1
+Added Pin To Net: NetName=VCC5V Pin=TP11-1
+Added Pin To Net: NetName=Vin Pin=U1-24
+Added Pin To Net: NetName=SCK Pin=U3-4
+Added Pin To Net: NetName=MOSI Pin=U3-5
+Added Pin To Net: NetName=MOSI Pin=U3-6
+Added Pin To Net: NetName=SCK Pin=U3-7
+Added Pin To Net: NetName=XIN Pin=U3-20
+Added Pin To Net: NetName=XOUT Pin=U3-21
+Added Pin To Net: NetName=RUN Pin=U3-26
+Added Pin To Net: NetName=BAT Pin=U3-38
+Added Pin To Net: NetName=QSPI_SS Pin=U3-56
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-13
+Add Pin To Net: Unknown Pin: Pin U5-14
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-8
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL1_11
+Added Pin To Net: NetName=AIN1 Pin=U1-21
+Added Pin To Net: NetName=AIN1 Pin=U3-29
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=U1-22
+Added Pin To Net: NetName=AIN2 Pin=U3-30
+Added Net: Name=AIN2
+Added Pin To Net: NetName=BIN1 Pin=U1-17
+Added Pin To Net: NetName=BIN1 Pin=U3-28
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=U1-16
+Added Pin To Net: NetName=BIN2 Pin=U3-27
+Added Net: Name=BIN2
+Added Pin To Net: NetName=CSn Pin=TP1-1
+Added Pin To Net: NetName=CSn Pin=U3-3
+Added Net: Name=CSn
+Added Pin To Net: NetName=Echo Pin=M3-3
+Added Pin To Net: NetName=Echo Pin=U3-12
+Added Net: Name=Echo
+Added Pin To Net: NetName=INT Pin=U3-9
+Added Net: Name=INT
+Added Pin To Net: NetName=MA1 Pin=J6-4
+Added Pin To Net: NetName=MA1 Pin=U3-15
+Added Net: Name=MA1
+Added Pin To Net: NetName=MA2 Pin=J5-4
+Added Pin To Net: NetName=MA2 Pin=U3-32
+Added Net: Name=MA2
+Added Pin To Net: NetName=MB1 Pin=J6-3
+Added Pin To Net: NetName=MB1 Pin=U3-16
+Added Net: Name=MB1
+Added Pin To Net: NetName=MB2 Pin=J5-3
+Added Pin To Net: NetName=MB2 Pin=U3-31
+Added Net: Name=MB2
+Added Pin To Net: NetName=MISO Pin=TP2-1
+Added Pin To Net: NetName=MISO Pin=U3-2
+Added Net: Name=MISO
+Added Pin To Net: NetName=PWMA Pin=U1-23
+Added Pin To Net: NetName=PWMA Pin=U3-17
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=U1-15
+Added Pin To Net: NetName=PWMB Pin=U3-18
+Added Net: Name=PWMB
+Added Pin To Net: NetName=QSPI_SCLK Pin=U3-52
+Added Net: Name=QSPI_SCLK
+Added Pin To Net: NetName=QSPI_SD0 Pin=U3-53
+Added Net: Name=QSPI_SD0
+Added Pin To Net: NetName=QSPI_SD1 Pin=U3-55
+Added Net: Name=QSPI_SD1
+Added Pin To Net: NetName=QSPI_SD2 Pin=U3-54
+Added Net: Name=QSPI_SD2
+Added Pin To Net: NetName=QSPI_SD3 Pin=U3-51
+Added Net: Name=QSPI_SD3
+Added Pin To Net: NetName=SERVO1 Pin=M1-3
+Added Pin To Net: NetName=SERVO1 Pin=U3-8
+Added Net: Name=SERVO1
+Added Pin To Net: NetName=SERVO2 Pin=M2-3
+Added Pin To Net: NetName=SERVO2 Pin=U3-11
+Added Net: Name=SERVO2
+Added Pin To Net: NetName=SWCLK Pin=TP6-1
+Added Pin To Net: NetName=SWCLK Pin=U3-24
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=TP7-1
+Added Pin To Net: NetName=SWDIO Pin=U3-25
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=Trig Pin=M3-2
+Added Pin To Net: NetName=Trig Pin=U3-13
+Added Net: Name=Trig
+Add Class Member: Failed to add class member : Component U5 ICM-42688-P
+Add Class Member: Failed to add class member : Component U6 W25Q128JVSIQ
