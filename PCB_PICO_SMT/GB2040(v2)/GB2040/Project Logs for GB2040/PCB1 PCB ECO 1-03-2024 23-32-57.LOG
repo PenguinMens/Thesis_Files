@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Vin Pin=R9-2
+Removed Pin From Net: NetName=BAT Pin=R10-2
+Change Component Footprint: Designator=J3 Old Footprint=FP-12401610E4#2A-MFG New Footprint=FP-2130830005-MFG
+Change Component Comment : Designator=J3 Old Comment=YS New Comment=213083-0005
+Change Managed Component Library Link : Designator=J3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F87105C0-DE24-430A-8B9C-4564D93B4618 Old RevisionGUID= New RevisionGUID=3EBE1FDC-1CAB-4052-8FDD-01E265B1806D
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-12401610E4#2A-MFG"; UniqueID = "\GBZWHJLS" ("\GBZWHJLS")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold, Nickel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Country of Origin"; Value = "CN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "114105384"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8536695050, 8536695050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=R13-1
+Added Pin To Net: NetName=XOUT Pin=R13-2

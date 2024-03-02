@@ -1,0 +1,80 @@
+Change Component Comment : Designator=C36 Old Comment=10u New Comment=10n
+Added Component: Designator=J?(USB-MICRO-B_V)
+Add component (AddParameter): Name = "3D Model"; Value = "105017-0001.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "1050170001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB-microB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/elqNow/elqRedir.htm?ref=http://www.molex.com/webdocs/datasheets/pdf/en-us/1050170001_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "USB,DVI,HDMIConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Micro-USBConnectorsUSBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded,SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "WM17145-ND-CABLEMICROUSBBTOSTDA1.0MWM17147-ND-CABLEMICROUSBBTOSTDA2.0MWM17146-ND-CABLEMICROUSBBTOSTDA1.5M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "BoardCutout,SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Molex-MicroUSB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "WM1399DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Leads USB, Micro B, Body 7.5 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MICRO-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. F, 12/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Assembly/Origin"; Value = "ResinSupplier21/Oct/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "1050170001CertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M1(3 Pin tht)
+Added Component: Designator=M2(3 Pin tht)
+Added Component: Designator=M3(4 Pin tht - duplicate)
+Added Component: Designator=TP1(TP through)
+Added Component: Designator=TP2(TP through)
+Added Component: Designator=TP3(TP through)
+Added Component: Designator=TP4(TP through)
+Added Component: Designator=TP5(TP through)
+Added Component: Designator=TP6(TP through)
+Added Component: Designator=TP7(TP through)
+Added Component: Designator=TP10(TP through)
+Added Component: Designator=TP11(TP through)
+Added Pin To Net: NetName=+3V3 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=+5V Pin=M1-2
+Added Pin To Net: NetName=SERVO1 Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=+5V Pin=M2-2
+Added Pin To Net: NetName=SERVO2 Pin=M2-3
+Added Pin To Net: NetName=+3V3 Pin=M3-1
+Added Pin To Net: NetName=Trig Pin=M3-2
+Added Pin To Net: NetName=Echo Pin=M3-3
+Added Pin To Net: NetName=GND Pin=M3-4
+Added Pin To Net: NetName=Vin Pin=R9-2
+Added Pin To Net: NetName=CSn Pin=TP1-1
+Added Pin To Net: NetName=MISO Pin=TP2-1
+Added Pin To Net: NetName=MOSI Pin=TP3-1
+Added Pin To Net: NetName=SCK Pin=TP4-1
+Added Pin To Net: NetName=MOSI Pin=TP5-1
+Added Pin To Net: NetName=SWCLK Pin=TP6-1
+Added Pin To Net: NetName=SWDIO Pin=TP7-1
+Added Pin To Net: NetName=+5V Pin=TP10-1
+Added Pin To Net: NetName=VCC5V Pin=TP11-1
+Added Pin To Net: NetName=+3V3 Pin=U5-5
+Added Member To Class: ClassName=board schematic Member=Component J? 105017-0001
+Added Member To Class: ClassName=board schematic Member=Component M1 Servo1
+Added Member To Class: ClassName=board schematic Member=Component M2 Servo2
+Added Member To Class: ClassName=board schematic Member=Component M3 Sonic
+Added Member To Class: ClassName=board schematic Member=Component TP1 TP
+Added Member To Class: ClassName=board schematic Member=Component TP2 TP
+Added Member To Class: ClassName=board schematic Member=Component TP3 TP
+Added Member To Class: ClassName=board schematic Member=Component TP4 TP
+Added Member To Class: ClassName=board schematic Member=Component TP5 TP
+Added Member To Class: ClassName=board schematic Member=Component TP6 TP
+Added Member To Class: ClassName=board schematic Member=Component TP7 TP
+Added Member To Class: ClassName=board schematic Member=Component TP10 TP
+Added Member To Class: ClassName=board schematic Member=Component TP11 TP

@@ -1,0 +1,17 @@
+Added Component: Designator=U5(PQFN50P300X250X97-14N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICM-42688-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=U5-1
+Added Pin To Net: NetName=INT Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=+3V3 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=CSn Pin=U5-12
+Added Pin To Net: NetName=SCK Pin=U5-13
+Added Pin To Net: NetName=MOSI Pin=U5-14
+Added Member To Class: ClassName=board schematic Member=Component U5 ICM-42688-P

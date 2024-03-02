@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOSI Pin=TP5-1
+Removed Member From Class: ClassName=board schematic Member=TP5
+Change Component Comment : Designator=M1 Old Comment=Servo1 New Comment=Servo?
+Change Component Comment : Designator=M2 Old Comment=Servo2 New Comment=Servo?

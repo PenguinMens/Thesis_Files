@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=J3-A1
+Removed Pin From Net: NetName=+5V Pin=J3-A4
+Removed Pin From Net: NetName=USB_D_P Pin=J3-A6
+Removed Pin From Net: NetName=USB_D_N Pin=J3-A7
+Removed Pin From Net: NetName=+5V Pin=J3-A9
+Removed Pin From Net: NetName=GND Pin=J3-A12
+Removed Pin From Net: NetName=GND Pin=J3-B1
+Removed Pin From Net: NetName=+5V Pin=J3-B4
+Removed Pin From Net: NetName=USB_D_P Pin=J3-B6
+Removed Pin From Net: NetName=USB_D_N Pin=J3-B7
+Removed Pin From Net: NetName=+5V Pin=J3-B9
+Removed Pin From Net: NetName=GND Pin=J3-B12
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Member From Class: ClassName=board schematic Member=R1
+Removed Member From Class: ClassName=board schematic Member=R2
+Change Component Footprint: Designator=J3 Old Footprint=FP-2130830005-MFG New Footprint=USB-MICRO-B_V
+Change Component Comment : Designator=J3 Old Comment=213083-0005 New Comment=105017-0001
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F87105C0-DE24-430A-8B9C-4564D93B4618 New ItemGUID=7E2B50FD-2A3B-49F3-A919-DEBD51006B8D Old RevisionGUID=3EBE1FDC-1CAB-4052-8FDD-01E265B1806D New RevisionGUID=31ACF149-959E-4052-8F65-535A3444434E
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-2130830005-MFG"; UniqueID = "\RJVDKUIC" ("\RJVDKUIC")
+Change component parameters (AddParameter): Name = "3D Model"; Value = "105017-0001.stp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "1050170001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuits"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB-microB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/elqNow/elqRedir.htm?ref=http://www.molex.com/webdocs/datasheets/pdf/en-us/1050170001_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "USB,DVI,HDMIConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "Micro-USBConnectorsUSBConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Shielded,SolderRetention"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Products"; Value = "WM17145-ND-CABLEMICROUSBBTOSTDA1.0MWM17147-ND-CABLEMICROUSBBTOSTDA2.0MWM17146-ND-CABLEMICROUSBBTOSTDA1.5M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "BoardCutout,SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "Molex-MicroUSB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "WM1399DKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "5-Leads USB, Micro B, Body 7.5 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "MICRO-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Version"; Value = "Rev. F, 12/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Assembly/Origin"; Value = "ResinSupplier21/Oct/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "1050170001CertofCompliance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specifications"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Max"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(USB-MICRO-B_V)
+Add component (AddParameter): Name = "3D Model"; Value = "105017-0001.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "1050170001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB-microB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/elqNow/elqRedir.htm?ref=http://www.molex.com/webdocs/datasheets/pdf/en-us/1050170001_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "USB,DVI,HDMIConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Micro-USBConnectorsUSBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded,SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "WM17145-ND-CABLEMICROUSBBTOSTDA1.0MWM17147-ND-CABLEMICROUSBBTOSTDA2.0MWM17146-ND-CABLEMICROUSBBTOSTDA1.5M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "BoardCutout,SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Molex-MicroUSB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "WM1399DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Leads USB, Micro B, Body 7.5 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MICRO-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. F, 12/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Assembly/Origin"; Value = "ResinSupplier21/Oct/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "1050170001CertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J3-1
+Added Pin To Net: NetName=USB_D_N Pin=J3-2
+Added Pin To Net: NetName=USB_D_P Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Member To Class: ClassName=board schematic Member=Component J? 105017-0001

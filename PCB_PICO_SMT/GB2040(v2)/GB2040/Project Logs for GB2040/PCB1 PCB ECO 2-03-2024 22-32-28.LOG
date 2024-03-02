@@ -1,0 +1,16 @@
+Added Component: Designator=M1(3 Pin tht)
+Added Component: Designator=M2(3 Pin tht)
+Added Component: Designator=M3(4 Pin tht - duplicate)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=+5V Pin=M1-2
+Added Pin To Net: NetName=SERVO1 Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=+5V Pin=M2-2
+Added Pin To Net: NetName=SERVO2 Pin=M2-3
+Added Pin To Net: NetName=+3V3 Pin=M3-1
+Added Pin To Net: NetName=Trig Pin=M3-2
+Added Pin To Net: NetName=Echo Pin=M3-3
+Added Pin To Net: NetName=GND Pin=M3-4
+Added Member To Class: ClassName=board schematic Member=Component M1 Servo1
+Added Member To Class: ClassName=board schematic Member=Component M2 Servo2
+Added Member To Class: ClassName=board schematic Member=Component M3 Sonic
