@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MOSI Pin=TP3-1
+Change Net Name : Old Net Name=MOSI New Net Name=SDA
+Change Net Name : Old Net Name=SCK New Net Name=SCL
+Added Pin To Net: NetName=MOSI Pin=TP3-1
+Added Net: Name=MOSI

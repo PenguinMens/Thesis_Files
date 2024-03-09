@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MISO Pin=TP2-1
+Removed Pin From Net: NetName=SCK Pin=U3-4
+Removed Pin From Net: NetName=MISO Pin=U3-5
+Removed Pin From Net: NetName=CSn Pin=U3-14
+Removed Pin From Net: NetName=MISO Pin=U5-1
+Removed Pin From Net: NetName=CSn Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=+3V3 Pin=U5-12
+Change Net Name : Old Net Name=MISO New Net Name=MOSI
+Added Pin To Net: NetName=MISO Pin=TP2-1
+Added Net: Name=MISO
