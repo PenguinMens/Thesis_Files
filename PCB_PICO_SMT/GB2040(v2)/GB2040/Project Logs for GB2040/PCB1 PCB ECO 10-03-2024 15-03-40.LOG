@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C3 Old Footprint=6-0805_M New Footprint=1206 cap
+Change Component Footprint: Designator=C19 Old Footprint=6-0805_M New Footprint=1206 cap
+Change Component Footprint: Designator=C20 Old Footprint=6-0805_M New Footprint=1206 cap
+Change Component Description : Designator=L1 Old Description=Inductor New Description=Inductor IHLP2020CZER3R3M01

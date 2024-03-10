@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [GB2040.PrjPcb]
+   Generated File[Pick Place for PCB1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:15:01 On 10/03/2024
