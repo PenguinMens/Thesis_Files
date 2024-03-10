@@ -51,7 +51,9 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Release]
-ReleaseTarget=3
+ReleaseTarget=1
+ReleaseFolderPath=E:\Thesis\PCB_PICO_SMT\GB2040(v2)\GB2040\Project Outputs for GB2040
+ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=board schematic.SchDoc
